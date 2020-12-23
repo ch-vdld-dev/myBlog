@@ -16,7 +16,7 @@ The blog is very basis, I created some posts with faker tool and we add comments
 Some screenshots:
 
 Home page EN:
-![home_en](https://github.com/ch-vdld-dev/myBlog/img/home_en.png)
+![home_en](/img/home_en.png)
 
 
 Comment page FR:
