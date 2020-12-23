@@ -13,4 +13,19 @@ This a little blog made with Symfony 5, to learn the framework:
 At started to learn the framework last week, and need to add some features like management of users, delete option, ...
 The blog is very basis, I created some posts with faker tool and we add comments to these posts
 
+Some screenshots:
 
+Home page EN:
+![alt text][logo]
+[logo]: https://github.com/ch-vdld-dev/myBlog/img/blog_en.png
+
+
+Comment page FR:
+![alt text][logo]
+[logo]: https://github.com/ch-vdld-dev/myBlog/img/comment_fr.png
+
+To improve my Symfony knowledge, I would like to add some features like:
+- manage users
+- manager posts and comments (delete option)
+- better interfaces
+- ...
