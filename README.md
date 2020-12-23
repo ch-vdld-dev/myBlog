@@ -16,13 +16,11 @@ The blog is very basis, I created some posts with faker tool and we add comments
 Some screenshots:
 
 Home page EN:
-![alt text][logo]
-[logo]: https://github.com/ch-vdld-dev/myBlog/img/home_en.png
+![home_en](https://github.com/ch-vdld-dev/myBlog/img/home_en.png)
 
 
 Comment page FR:
-![alt text][logo]
-[logo]: https://github.com/ch-vdld-dev/myBlog/img/comment_fr.png
+![comment fr](https://github.com/ch-vdld-dev/myBlog/img/comment_fr.png)
 
 To improve my Symfony knowledge, I would like to add some features like:
 - manage users
