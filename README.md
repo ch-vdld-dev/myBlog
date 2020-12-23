@@ -17,7 +17,7 @@ Some screenshots:
 
 Home page EN:
 ![alt text][logo]
-[logo]: https://github.com/ch-vdld-dev/myBlog/img/blog_en.png
+[logo]: https://github.com/ch-vdld-dev/myBlog/img/home_en.png
 
 
 Comment page FR:
